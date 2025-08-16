@@ -49,4 +49,4 @@ It highlights expertise in **Angular, Spring Boot, JPA, and MySQL**, making it a
 ---
 
 📷 **Application Screenshot**  
-![Food Ordering UI](images/food-order-ui.png)
+![image alt](https://github.com/venkatesh6446/food-ordering-system/blob/fc4a6023816ef3b4aa485684989c8d8f3608d828/FinalOutput.png)
